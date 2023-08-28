@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Journey with JavaScript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-28
 published: true
 labels:
   - Engineering
@@ -21,34 +21,28 @@ But the more I though about it, the more I wondered to myself...damn that's a re
 
 Here's what I think: the difficult things will always be difficult.
 
-## In the context of programming
+## Introduction 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+In JavaScript, often abbreviated to JS, has become one of the most popular programming languages for web development since its inception in the mid-1990s. Its versatility and ubiquity in modern web applications make it an essential tool for software engineers.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## Journey with JavaScript
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+In JavaScript is both exciting and challenging due to its syntax and dynamic nature. The syntax of JavaScript is more flexible and forgiving, and this flexibility makes it easier to write quick scripts as it allows for quick prototyping and easy modification of code. However, this same flexibility can also introduce subtle bugs. 
 
-## In the context of engineering
+## Comparison with Java
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+Despite their similar names, JavaScript and Java are fundamentally different languages. Java is a statically typed compiled language commonly used for server-side applications, mobile development, and enterprise-level software. It boasts strong typing and an extensive class hierarchy, which promotes robust software engineering practices. In contrast, JavaScript's dynamic typing and prototypal inheritance model offer more flexibility .
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+## Comparison with C++
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+C++ is renowned for its performance and low-level memory control, making it a choice for system-level programming, game development, and resource-intensive applications. JavaScript, as a high-level scripting language, is starkly different. It abstracts memory management and provides garbage collection, simplifying development but potentially sacrificing performance optimization.
 
-## In the context of relationships
+## Software Engineering Perspective
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+From a software engineering perspective, JavaScript offers both advantages and challenges. It is universal and browser compatible, the only scripting language supported by all modern web browsers. Its relaxed syntax supports rapid development and iteration, facilitating prototyping and fast-paced development cycles.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+While JavaScript has made significant contributions to the evolution of web development, it's also important to recognize its limitations. Its single-threaded nature can hinder the scalability of resource-intensive applications. Moreover, its runtime environment exposes vulnerabilities like cross-site scripting (XSS), requiring developers to take diligent security measures.
 
-Relationships have always been difficult, and by nature will continue to be so.
+## Conclusion
 
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In summary, JavaScript is the foundational language of web development, driving interactive and dynamic content on the web. It's not inherently good or bad, but rather a tool with unique strengths and limitations. The choice to use JavaScript should be based on project requirements and careful consideration of its suitability for the task at hand. As the field of programming continues to evolve, the role of JavaScript may still be important.
