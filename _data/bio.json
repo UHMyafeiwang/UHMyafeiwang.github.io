@@ -15,8 +15,8 @@
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
-  "Interests": [
-    { "name": "Interactive media" },
+  "interests": [
+    { "name": "Interactive media asadasdasd" },
     { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
