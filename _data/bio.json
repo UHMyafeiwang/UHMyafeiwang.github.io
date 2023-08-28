@@ -6,17 +6,17 @@
     "email": "yafeiw@hawaii.edu",
     "phone": "808-729-7779",
     "website": "https://uhmyafeiwang.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am Yafei Wang, a Computer Science student at UHM. My journey encompasses a profound passion for technology, strengthened by coursework in programming, algorithms, and data structures.",
     "location": { "address": "", "postalCode": "96706", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "UHMyafeiwang", "url": "https://github.com/UHMyafeiwang" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
+  "Motto": [
+    { "name": "When life gives you lemons, make lemonade." },
     { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
