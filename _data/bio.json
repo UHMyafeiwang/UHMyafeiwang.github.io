@@ -15,8 +15,8 @@
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
-  "Motto": [
-    { "name": "When life gives you lemons, make lemonade" },
+  "Interests": [
+    { "name": "When life" },
     { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
