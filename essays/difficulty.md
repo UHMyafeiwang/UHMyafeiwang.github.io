@@ -6,7 +6,7 @@ title: "Journey with JavaScript"
 date: 2023-08-28
 published: true
 labels:
-  - Engineering
+  - Learning,
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/JS.jpg">
@@ -42,6 +42,12 @@ C++ is renowned for its performance and low-level memory control, making it a ch
 From a software engineering perspective, JavaScript offers both advantages and challenges. It is universal and browser compatible, the only scripting language supported by all modern web browsers. Its relaxed syntax supports rapid development and iteration, facilitating prototyping and fast-paced development cycles.
 
 While JavaScript has made significant contributions to the evolution of web development, it's also important to recognize its limitations. Its single-threaded nature can hinder the scalability of resource-intensive applications. Moreover, its runtime environment exposes vulnerabilities like cross-site scripting (XSS), requiring developers to take diligent security measures.
+
+## Practice
+
+I believe the the primary objective of ICS314 appears to be centered around fostering a culture where students actively embrace indispensable knowledge through a consistent regimen of repetitive practice. In recognition of the fact that programming is fundamentally a skill, the course underscores the importance of dedicated and iterative practice. The notion that theoretical knowledge, in isolation, falls short in sculpting a novice into a proficient software engineer is a prevailing theme. Personally, I find this pedagogical approach immensely commendable.
+
+Furthermore, the Work of Day(WODs) constitute a cornerstone of this approach, serving as a formidable asset. As an individual with no prior exposure to JavaScript, these weekly challenges assume a pivotal role in my learning journey. The imperative nature of this iterative practice cannot be overstated; it is through the sustained application and repetition of skills that mastery is attained. In essence, the triad of theory, practice, and consistency collectively forges a path towards skill excellence in the realm of programming.
 
 ## Conclusion
 
