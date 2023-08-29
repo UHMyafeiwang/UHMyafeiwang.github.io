@@ -6,26 +6,17 @@ title: "Journey with JavaScript"
 date: 2023-08-28
 published: true
 labels:
-  - Learning,
+  - Learning
+  - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/JS.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../img/difficulty/JS.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*JavaScript: JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## Introduction 
-
-In JavaScript, often abbreviated to JS, has become one of the most popular programming languages for web development since its inception in the mid-1990s. Its versatility and ubiquity in modern web applications make it an essential tool for software engineers.
 
 ## Journey with JavaScript
+In JavaScript, often abbreviated to JS, has become one of the most popular programming languages for web development since its inception in the mid-1990s. Its versatility and ubiquity in modern web applications make it an essential tool for software engineers.
 
 In JavaScript is both exciting and challenging due to its syntax and dynamic nature. The syntax of JavaScript is more flexible and forgiving, and this flexibility makes it easier to write quick scripts as it allows for quick prototyping and easy modification of code. However, this same flexibility can also introduce subtle bugs. 
 
