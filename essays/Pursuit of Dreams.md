@@ -10,14 +10,12 @@ labels:
   - Life
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="..img/dreams.jpeg">
+<img width="600px" src="../img/dreams.jpeg" alt="Dreams">
 
 *Dreams are not only achievable but also inevitable*
 
-
 The journey to achieve your dreams is dynamic and often challenging. In this pursuit, the virtues of maintaining happiness and unwavering determination play vital roles. The fusion of these two principles—staying happy and never giving up on your dreams—creates a powerful synergy that drives personal growth, innovation, and achievement.
 
-<img width="600px" class="rounded float-start pe-4" src="../img/difficulty/JS.jpg">
 
 ## Happiness in Fulfilling Your Dreams
 
@@ -31,6 +29,8 @@ Additionally, a happy disposition can promote the development of a growth mindse
 ## Perseverance
 
 Grit is the relentless dedication to pursuing a goal despite setbacks, failures, or obstacles. It serves as the backbone for realizing dreams and enables individuals to remain steadfast even in the face of seemingly insurmountable challenges. The technical aspect of grit lies in the strategies and mindsets that enable an individual to persist despite all odds. One of the key elements of perseverance is setting realistic and achievable goals. Break down your dream into manageable steps, each with its own milestones. Not only does this provide a roadmap to follow, but it also creates a sense of accomplishment with each milestone achieved, further strengthening your resolve.
+
+<img width="600px" class="rounded float-start pe-4" src="../img/notquite.jpg">
 
 
 ## Treating Failure as a Stepping Stone
