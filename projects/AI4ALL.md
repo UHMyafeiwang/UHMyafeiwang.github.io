@@ -28,4 +28,3 @@ During my AI4ALL journey, I was exposed to Python, a versatile programming langu
 
 
 
-You can learn more at the [NIWC](https://www.niwcpacific.navy.mil/).
