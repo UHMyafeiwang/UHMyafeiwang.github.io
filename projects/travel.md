@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/niwcsquare.png
+image: img/travel/family3.png
 title: "A Whimsical Family Adventure Shanghai Disneyland"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ labels:
 Quote: "The dream is start from here."
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/NIWC.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/travel/family1.jpg">
 
 Amidst the hustle and bustle of modern life, finding moments of genuine joy and bonding becomes paramount. Such moments are beautifully encapsulated in the memories of our family's remarkable vacation to Disneyland—a journey of shared laughter, magical encounters, and the deepening of bonds between my wife, my daughter, and myself. As I reflect upon this enchanting adventure, I am reminded of the irreplaceable value of quality time spent with loved ones in a place that ignites the imagination and warms the heart.
 
@@ -24,7 +24,7 @@ Our vacation to Disneyland was more than just a trip; it was a celebration of fa
 
 The moment we stepped through the gates of Disneyland, we were transported into a world where fantasies come alive. The iconic Sleeping Beauty Castle welcomed us with open arms, its towers reaching towards the sky as if inviting us to explore the realms of magic and wonder. Main Street, U.S.A. charmed us with its nostalgic architecture and bustling energy, setting the tone for the enchanting journey that lay ahead. Together, as a family, we embarked on a shared dreamland where excitement and delight knew no bounds.
 
-<img width="600px" class="rounded float-start pe-4" src="../img/NIWC.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/travel/family2.jpg">
 
 ## Magical Encounters and Immersement
 
