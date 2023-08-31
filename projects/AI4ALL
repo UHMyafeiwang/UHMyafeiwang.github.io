@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/niwcsquare.png
+image: img/AI4ALL/AI3.png
 title: "AI4ALL"
 date: 2023
 published: true
@@ -12,15 +12,18 @@ labels:
 Quote: "The greater the obstacle, the more glory in overcoming it."
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/NIWC.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/AI4ALL/AI1.png">
+AI4ALL and the journey towards inclusion
 
-Naval Information Warfare Center Pacific (NIWC Pacific), formerly SPAWAR Systems Center Pacific or SSC Pacific, provides the U.S. Navy with integrated command, control, communications, computers, intelligence research, development, delivery and support, surveillance and reconnaissance (C4ISR), cyber and space systems, and capabilities across all operational domains. NIWC Pacific is the only Naval Technology Center headquartered in a major fleet concentration area, managing the Pacific theater and strategic locations around the world.
+In the ever-evolving world of technology, rapid advances in artificial intelligence (AI) are reshaping industries and society. Amid this transformation, there is a growing need to ensure that the field of AI is not only cutting edge, but also inclusive, encompassing diverse perspectives and voices. Recognizing this need, the national nonprofit AI4ALL embarked on a mission to revolutionize the AI landscape by fostering inclusive, critical thinking, and responsible AI practices. As a participant in the AI4ALL program, I have had the privilege of using Python to delve into the world of artificial intelligence and learn how to harness its potential to create a fairer future.
 
-Engaged in a profoundly enriching academic pursuit, I currently find myself under the esteemed tutelage of Professor Adamove and Professor Arnold at the distinguished Naval Information Warfare Center Pacific. Within this rigorous educational framework, I am immersed in an intricate study focused on the critical realm of network security.
 
-The meticulously crafted curriculum navigates the multifaceted dimensions of this field, spanning from the foundational tenets of cybersecurity to the intricacies of network environment detection. The expertise and guidance provided by these erudite scholars illuminate diverse facets of securing digital domains. Collaborative engagement with peers within this knowledge ecosystem further fosters a comprehensive comprehension of the subject matter.
+AI4ALL is unwavering in its commitment to transforming the pipeline of AI practitioners and fostering a human-centered discipline. Central to its vision is the empowerment of students to become AI changemakers. The program recognizes that the true potential of artificial intelligence can only be realized when diverse voices, perspectives and talents are included. To achieve this goal, AI4ALL proactively seeks students from communities that have historically been excluded from the AI field. By providing these students with a platform to build an identity in the field, AI4ALL leverages their agency and initiative to develop not only technical expertise but also leadership skills.
 
-This immersive experience not only serves to refine my theoretical insights but also equips me with the pragmatic acumen necessary to effectively address the perpetually evolving challenges inherent to the technological landscape. Navigating through real-world simulations and engaging in hands-on exercises, I am diligently cultivating a skill set that stands as imperative in the safeguarding of sensitive information and the mitigation of complex cyber threats.
+
+During my AI4ALL journey, I was exposed to Python, a versatile programming language that has become a cornerstone of AI and data science. With Python as my gateway, I began a learning experience that opened the door to the world of artificial intelligence and its myriad applications. Through hands-on projects and interactive sessions, I delved into the intricacies of Python, gradually improving my ability to create AI models, analyze data, and solve complex problems.
+
+
 
 
 
