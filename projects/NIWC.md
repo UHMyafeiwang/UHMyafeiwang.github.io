@@ -12,11 +12,7 @@ labels:
 Quote: "The greater the obstacle, the more glory in overcoming it."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img width="600px" class="rounded float-start pe-4" src="../img/NIWC.png">
 
 Naval Information Warfare Center Pacific (NIWC Pacific), formerly SPAWAR Systems Center Pacific or SSC Pacific, provides the U.S. Navy with integrated command, control, communications, computers, intelligence research, development, delivery and support, surveillance and reconnaissance (C4ISR), cyber and space systems, and capabilities across all operational domains. NIWC Pacific is the only Naval Technology Center headquartered in a major fleet concentration area, managing the Pacific theater and strategic locations around the world.
 
