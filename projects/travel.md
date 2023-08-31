@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/travel/family3.png
+image: ![Image Description](img/travel/family3.png =400x400)
 title: "A Whimsical Family Adventure Shanghai Disneyland"
 date: 2023
 published: true
