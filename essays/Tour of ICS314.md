@@ -27,7 +27,6 @@ I'm currently taking ICS 314 and I'm having fun as I embark on a journey to furt
 
 One component of the ICS 314 class that really sparked my passion was the JavaScript Coding-centric Workout of the Day (WOD) class. These classes reflect the concept of physical exercise, but instead of targeting muscles, they target my coding skills. WODs are carefully crafted coding challenges that require creativity, problem solving, and efficient implementation using JavaScript. Each WOD presents a unique challenge that requires dissecting the problem, formulating an algorithmic strategy, and translating it into functional code.
 
-<img width="600px" class="rounded float-start pe-4" src="../img/notquite.jpg">
 
 
 ## WODs
