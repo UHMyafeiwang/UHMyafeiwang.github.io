@@ -13,6 +13,7 @@ Quote: "The dream is start from here."
 ---
 
 
+## Family
 
 Amidst the hustle and bustle of modern life, finding moments of genuine joy and bonding becomes paramount. Such moments are beautifully encapsulated in the memories of our family's remarkable vacation to Disneyland—a journey of shared laughter, magical encounters, and the deepening of bonds between my wife, my daughter, and myself. As I reflect upon this enchanting adventure, I am reminded of the irreplaceable value of quality time spent with loved ones in a place that ignites the imagination and warms the heart.
 
