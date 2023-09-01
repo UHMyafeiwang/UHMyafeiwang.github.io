@@ -10,7 +10,7 @@ labels:
   - Life
 ---
 
-<img width="600px" src="../img/dreams.jpeg" alt="Dreams">
+<img width="600px" src="../img/travel/uhm1.jpg" alt="Dreams">
 
 *Dreams are not only achievable but also inevitable*
 
