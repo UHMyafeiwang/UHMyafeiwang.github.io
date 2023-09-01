@@ -12,7 +12,6 @@ labels:
 Quote: "The dream is start from here."
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/travel/family5.jpg">
 
 <div style="clear: both; text-align: center;">
   <img src="img/travel/family5.jpg" alt="Your Image" style="display: block; margin: 0 auto;">
@@ -28,7 +27,11 @@ Our vacation to Disneyland was more than just a trip; it was a celebration of fa
 
 The moment we stepped through the gates of Disneyland, we were transported into a world where fantasies come alive. The iconic Sleeping Beauty Castle welcomed us with open arms, its towers reaching towards the sky as if inviting us to explore the realms of magic and wonder. Main Street, U.S.A. charmed us with its nostalgic architecture and bustling energy, setting the tone for the enchanting journey that lay ahead. Together, as a family, we embarked on a shared dreamland where excitement and delight knew no bounds.
 
-<img width="600px" class="rounded float-start pe-4" src="../img/travel/family2.jpg">
+
+<div style="clear: both; text-align: center;">
+  <img src="img/travel/family2.jpg" alt="Family Travel" style="display: block; margin: 0 auto;">
+</div>
+
 
 ## Magical Encounters and Immersement
 
