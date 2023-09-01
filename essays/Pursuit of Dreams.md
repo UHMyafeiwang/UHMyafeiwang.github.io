@@ -4,7 +4,7 @@ type: essay
 title: "Pursuit of Dreams"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
-published: True
+published: false
 labels:
   - Learning
   - Life
