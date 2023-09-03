@@ -28,7 +28,8 @@ When you do pose a question, ensure it is well-formed. This involves providing c
 
 Additionally, maintain a courteous and respectful tone. Show appreciation for the time and effort that others are investing in helping you. Simple phrases like "Please" and "Thank you for your attention" can go a long way in fostering a positive atmosphere within the online community. Furthermore, after receiving assistance, it's considered good practice to follow up and share the outcome of the problem's resolution. This not only shows gratitude but also contributes to the collective knowledge base, helping future users with similar issues.
 
-[Example of good question] (https://stackoverflow.com/questions/76976249/warning-text-content-did-not-match-server-562-client-563-when-creating-a).
+Example of good question [(https://stackoverflow.com/questions/76976249/warning-text-content-did-not-match-server-562-client-563-when-creating-a).
+You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
 
 The questioner describes the problem in clear detail, outlining its symptoms, expected results, and any unexpected behavior or errors. This comprehensive description not only facilitates effective problem solving, but also enhances collaboration within online communities. Additionally, providing error codes encountered during implementation can significantly speed up the resolution process. By doing this, give potential helpers a thorough understanding of the context of your problem.
 
