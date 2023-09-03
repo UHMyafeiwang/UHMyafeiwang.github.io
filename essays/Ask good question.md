@@ -28,9 +28,8 @@ When you do pose a question, ensure it is well-formed. This involves providing c
 
 Additionally, maintain a courteous and respectful tone. Show appreciation for the time and effort that others are investing in helping you. Simple phrases like "Please" and "Thank you for your attention" can go a long way in fostering a positive atmosphere within the online community. Furthermore, after receiving assistance, it's considered good practice to follow up and share the outcome of the problem's resolution. This not only shows gratitude but also contributes to the collective knowledge base, helping future users with similar issues.
 
-Example of good question [(https://stackoverflow.com/questions/76976249/warning-text-content-did-not-match-server-562-client-563-when-creating-a).
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
-Example of good question [Example of good question](https://stackoverflow.com/questions/76976249/warning-text-content-did-not-match-server-562-client-563-when-creating-a).
+
+ [Example of good question](https://stackoverflow.com/questions/76976249/warning-text-content-did-not-match-server-562-client-563-when-creating-a).
 
 The questioner describes the problem in clear detail, outlining its symptoms, expected results, and any unexpected behavior or errors. This comprehensive description not only facilitates effective problem solving, but also enhances collaboration within online communities. Additionally, providing error codes encountered during implementation can significantly speed up the resolution process. By doing this, give potential helpers a thorough understanding of the context of your problem.
 
@@ -44,7 +43,8 @@ Furthermore, questions that shift blame or responsibility onto others, such as "
 
 Lastly, failing to conduct adequate research before posing a question is a significant pitfall. In the age of the internet, where information is readily accessible, laziness in seeking answers can be perceived as a lack of respect for the collective knowledge of the community. Always make an effort to search for existing solutions before asking for help.
 
-[Example of not smart question] https://stackoverflow.com/questions/77031215/adding-onclick-event-in-a-javascript-class-not-working
+
+[Example of not smart question](https://stackoverflow.com/questions/77031215/adding-onclick-event-in-a-javascript-class-not-working).
 
 The individual who articulated the problem simply stated, "onclick event in a JavaScript class not working." This succinct description brings to mind Eric Raymond's insightful article, "How to Ask Questions the Smart Way." Instances such as "HELP! Video doesn't t work properly on my laptop!" serve as prime examples of the types of queries that are reminiscent of Raymond's admonitions.
 
