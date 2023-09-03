@@ -1,46 +1,48 @@
 ---
 layout: essay
 type: essay
-title: "Journey with JavaScript"
+title: "software engineer, Good question"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-28
 published: false
 labels:
   - Learning
   - JavaScript
-  - Programming 
+  - Smart
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/difficulty/JS.jpg">
-
-*JavaScript: JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.*
+<img width="600px" class="rounded float-start pe-4" src="../img/travel/stackoverflow1.png">
 
 
-## Journey with JavaScript
-In JavaScript, often abbreviated to JS, has become one of the most popular programming languages for web development since its inception in the mid-1990s. Its versatility and ubiquity in modern web applications make it an essential tool for software engineers.
 
-In JavaScript is both exciting and challenging due to its syntax and dynamic nature. The syntax of JavaScript is more flexible and forgiving, and this flexibility makes it easier to write quick scripts as it allows for quick prototyping and easy modification of code. However, this same flexibility can also introduce subtle bugs. 
 
-## Comparison with Java
+## Introduction
+Asking questions is a fundamental part of our quest for knowledge and understanding. In the realm of technology and programming, where complex problems often arise, the art of asking questions takes on even greater importance. Eric Raymond guide, "How To Ask Questions The Smart Way," serves as an invaluable resource for those seeking assistance in online communities. We aim to shed light on how to navigate the world of online knowledge sharing effectively.
+ 
 
-Despite their similar names, JavaScript and Java are fundamentally different languages. Java is a statically typed compiled language commonly used for server-side applications, mobile development, and enterprise-level software. It boasts strong typing and an extensive class hierarchy, which promotes robust software engineering practices. In contrast, JavaScript's dynamic typing and prototypal inheritance model offer more flexibility .
+## Asking Questions the Smart Way
 
-## Comparison with C++
+Asking questions the smart way is an art that can greatly enhance the quality of the answers you receive and the overall experience of both the inquirer and the respondent. To ask a question smartly means to be prepared, clear, and respectful. First and foremost, it's crucial to do your homework. Before posting a question in an online forum or community, invest time in researching the issue independently. Consult relevant documentation, manuals, FAQs, or search engines to see if your question has already been addressed. This not only demonstrates your commitment to solving the problem but also respects the time and expertise of those who may potentially assist you.
 
-C++ is renowned for its performance and low-level memory control, making it a choice for system-level programming, game development, and resource-intensive applications. JavaScript, as a high-level scripting language, is starkly different. It abstracts memory management and provides garbage collection, simplifying development but potentially sacrificing performance optimization.
+When you do pose a question, ensure it is well-formed. This involves providing context, details, and a clear problem statement. Be specific about what you are trying to achieve, the steps you have taken, and the roadblocks you've encountered. A good question should stand alone, meaning that someone unfamiliar with your problem can understand it without requiring additional information. This not only expedites the response process but also increases the likelihood of receiving relevant and accurate answers.
 
-## Software Engineering Perspective
+Additionally, maintain a courteous and respectful tone. Show appreciation for the time and effort that others are investing in helping you. Simple phrases like "Please" and "Thank you for your attention" can go a long way in fostering a positive atmosphere within the online community. Furthermore, after receiving assistance, it's considered good practice to follow up and share the outcome of the problem's resolution. This not only shows gratitude but also contributes to the collective knowledge base, helping future users with similar issues.
 
-From a software engineering perspective, JavaScript offers both advantages and challenges. It is universal and browser compatible, the only scripting language supported by all modern web browsers. Its relaxed syntax supports rapid development and iteration, facilitating prototyping and fast-paced development cycles.
 
-While JavaScript has made significant contributions to the evolution of web development, it's also important to recognize its limitations. Its single-threaded nature can hinder the scalability of resource-intensive applications. Moreover, its runtime environment exposes vulnerabilities like cross-site scripting (XSS), requiring developers to take diligent security measures.
+## Asking Questions the Not-So-Smart Way
 
-## Practice
+On the flip side, asking questions in a not-so-smart way can lead to frustration, misunderstandings, and ultimately, no solutions. Common pitfalls in this realm include vague or lazy inquiries. Questions like "Where can I find this?" or "My program doesn't work, help!" are unlikely to yield productive responses. They lack detail, context, and specificity, making it challenging for others to provide meaningful assistance.
 
-I believe the the primary objective of ICS314 appears to be centered around fostering a culture where students actively embrace indispensable knowledge through a consistent regimen of repetitive practice. In recognition of the fact that programming is fundamentally a skill, the course underscores the importance of dedicated and iterative practice. The notion that theoretical knowledge, in isolation, falls short in sculpting a novice into a proficient software engineer is a prevailing theme. Personally, I find this pedagogical approach immensely commendable.
+Another red flag is assuming a particular solution or method without explaining why you believe it's appropriate. Questions that start with "How can I use X to do Y?" presuppose a specific approach without exploring alternative methods or considering whether X is the right tool for Y. This type of inquiry can hinder creative problem-solving and limit the potential for innovative solutions.
 
-Furthermore, the Work of Day(WODs) constitute a cornerstone of this approach, serving as a formidable asset. As an individual with no prior exposure to JavaScript, these weekly challenges assume a pivotal role in my learning journey. The imperative nature of this iterative practice cannot be overstated; it is through the sustained application and repetition of skills that mastery is attained. In essence, the triad of theory, practice, and consistency collectively forges a path towards skill excellence in the realm of programming.
+Furthermore, questions that shift blame or responsibility onto others, such as "My program doesn't work; it's your fault!" are not conducive to a constructive environment. They may alienate potential helpers and discourage them from engaging in the discussion. Instead of seeking a scapegoat, focus on the problem itself and your efforts to solve it.
+
+Lastly, failing to conduct adequate research before posing a question is a significant pitfall. In the age of the internet, where information is readily accessible, laziness in seeking answers can be perceived as a lack of respect for the collective knowledge of the community. Always make an effort to search for existing solutions before asking for help.
+
 
 ## Conclusion
 
-In summary, JavaScript is the foundational language of web development, driving interactive and dynamic content on the web. It's not inherently good or bad, but rather a tool with unique strengths and limitations. The choice to use JavaScript should be based on project requirements and careful consideration of its suitability for the task at hand. As the field of programming continues to evolve, the role of JavaScript may still be important.
+In the world of online knowledge sharing, asking questions the smart way is a skill that not only benefits the software engineering  but also enriches the entire community. It is a process that involves preparation, clarity, and respect. Smart questions empower responders to provide accurate and relevant solutions, making problem-solving more efficient and effective.
+
+Conversely, not-so-smart questions can hinder progress and erode the collaborative spirit of online communities. Vague, lazy, or blame-shifting inquiries may deter potential helpers and lead to frustration for all parties involved.
+
