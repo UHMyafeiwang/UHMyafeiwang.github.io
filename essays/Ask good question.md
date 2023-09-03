@@ -28,6 +28,7 @@ When you do pose a question, ensure it is well-formed. This involves providing c
 
 Additionally, maintain a courteous and respectful tone. Show appreciation for the time and effort that others are investing in helping you. Simple phrases like "Please" and "Thank you for your attention" can go a long way in fostering a positive atmosphere within the online community. Furthermore, after receiving assistance, it's considered good practice to follow up and share the outcome of the problem's resolution. This not only shows gratitude but also contributes to the collective knowledge base, helping future users with similar issues.
 
+[Example of good question]: [https://stackoverflow.com/questions/76976249/warning-text-content-did-not-match-server-562-client-563-when-creating-a]
 
 ## Asking Questions the Not-So-Smart Way
 
@@ -39,6 +40,7 @@ Furthermore, questions that shift blame or responsibility onto others, such as "
 
 Lastly, failing to conduct adequate research before posing a question is a significant pitfall. In the age of the internet, where information is readily accessible, laziness in seeking answers can be perceived as a lack of respect for the collective knowledge of the community. Always make an effort to search for existing solutions before asking for help.
 
+[Example of not smart question]: [https://stackoverflow.com/questions/77031215/adding-onclick-event-in-a-javascript-class-not-working]
 
 ## Conclusion
 
