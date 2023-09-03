@@ -30,6 +30,7 @@ Additionally, maintain a courteous and respectful tone. Show appreciation for th
 
 Example of good question [(https://stackoverflow.com/questions/76976249/warning-text-content-did-not-match-server-562-client-563-when-creating-a).
 You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Example of good question [Example of good question](https://stackoverflow.com/questions/76976249/warning-text-content-did-not-match-server-562-client-563-when-creating-a).
 
 The questioner describes the problem in clear detail, outlining its symptoms, expected results, and any unexpected behavior or errors. This comprehensive description not only facilitates effective problem solving, but also enhances collaboration within online communities. Additionally, providing error codes encountered during implementation can significantly speed up the resolution process. By doing this, give potential helpers a thorough understanding of the context of your problem.
 
