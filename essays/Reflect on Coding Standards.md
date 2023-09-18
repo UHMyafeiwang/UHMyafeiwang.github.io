@@ -3,12 +3,13 @@ layout: essay
 type: essay
 title: "Coding standards are vital for beginners "
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-28
+date: 2023-09-18
 published: false
 labels:
-  - Learning
   - JavaScript
-  - Smart
+  - Coding Standards
+  - ESLint
+  - IntelliJ
 ---
 
 <img width="600px" class="rounded float-start pe-4" src="../img/travel/Eslint1.png">
