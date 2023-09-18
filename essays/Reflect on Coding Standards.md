@@ -4,7 +4,7 @@ type: essay
 title: "Coding standards are vital for beginners "
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-18
-published: false
+published: true
 labels:
   - JavaScript
   - Coding Standards
