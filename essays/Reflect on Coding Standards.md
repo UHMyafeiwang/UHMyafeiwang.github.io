@@ -30,8 +30,6 @@ When you do pose a question, ensure it is well-formed. This involves providing c
 Additionally, maintain a courteous and respectful tone. Show appreciation for the time and effort that others are investing in helping you. Simple phrases like "Please" and "Thank you for your attention" can go a long way in fostering a positive atmosphere within the online community. Furthermore, after receiving assistance, it's considered good practice to follow up and share the outcome of the problem's resolution. This not only shows gratitude but also contributes to the collective knowledge base, helping future users with similar issues.
 
 
- [Example of good question](https://stackoverflow.com/questions/76976249/warning-text-content-did-not-match-server-562-client-563-when-creating-a).
-
 
 1. Consistency:
   Consistent code is easier to read and maintain, making collaboration between developers more efficient. When everyone follows the same set of standards, code reviews go more smoothly and debugging becomes less error-prone. At the same time, consistent formatting and organization make the code easier to understand, especially for beginners. As a result, developers can more effectively study existing code bases and learn from the work of others.
@@ -45,7 +43,7 @@ Coding standards can serve as proactive guardians against coding errors. For exa
 4. Learning aids:
 I believe that adhering to coding standards can be an effective way to learn a programming language. When we write code according to a set of standards, not only do we produce better code, but we gain a deeper understanding of the language's syntax and best practices.
 
-## ESLint 和 IntelliJ
+## ESLint and IntelliJ
 
 ESLint is an open source JavaScript linting tool that is an indispensable companion for developers striving to maintain coding standards. It acts as an automated code analysis tool that scans JavaScript code for deviations from predefined rules.
 
