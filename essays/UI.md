@@ -23,15 +23,13 @@ HTML, or Hypertext Markup Language, is the standard markup language used to crea
 
 HTML is a universal standard that is recognized and used worldwide. HTML can be understood by any device or browser that supports web content, making it the most accessible way to display information on the web. Even someone new to web development can pick up the basics of HTML relatively quickly. Its syntax is simple and clear, and there are plenty of tutorials and resources for beginners to get started easily. It does not require expensive tools or software; a simple text editor, such as Notepad, is enough to write HTML. Moreover, HTML is highly versatile. It can be integrated with other languages such as CSS and JavaScript to create dynamic and interactive web pages.
 
-Display Consistency
+<li>Display Consistency</li>
 
 One of the core principles of web development is ensuring that web content displays and runs consistently across browsers. With the help of standards provided by the World Wide Web Consortium (W3C), developers can follow guidelines that ensure consistent rendering. HTML code can be executed on any platform without any modification, and HTML tends to be displayed consistently across various browsers and platforms. Whether it's Windows, Linux, macOS, or mobile platforms, HTML remains consistent. For instance, mature browsers such as Chrome, Firefox, Safari, and Edge constantly update their rendering engines to support the latest HTML standards. However, they also maintain compatibility with older versions of HTML to ensure that older websites remain accessible and functional.
 
 The DOCTYPE declaration helps browsers understand which version of HTML the page uses. Placing the `DOCTYPE` declaration at the beginning of the HTML document can further improve consistency by telling the browser which set of rules to follow.
 
-Example: <!DOCTYPE html>.
-
-A CSS reset is an important tool for web developers. Sometimes, differences in default browser styles can lead to inconsistent presentations. Thus, many developers use the CSS reset technique to standardize default browser styles, ensuring a consistent starting point. Each browser has its own default "user agent" style sheet, which it uses to display unstyled web pages in a specific way. These default styles vary from browser to browser, leading to inconsistent appearances. CSS resets are a set of styles that remove or neutralize the default margins, padding, and other properties provided by browsers. The idea behind a CSS reset is to "reset" styles, creating a consistent starting point. By using a CSS reset, developers can ensure they start from a consistent baseline, making it easier to apply custom styles.
+Example: <!DOCTYPE html>. A CSS reset is an important tool for web developers. Sometimes, differences in default browser styles can lead to inconsistent presentations. Thus, many developers use the CSS reset technique to standardize default browser styles, ensuring a consistent starting point. Each browser has its own default "user agent" style sheet, which it uses to display unstyled web pages in a specific way. These default styles vary from browser to browser, leading to inconsistent appearances. CSS resets are a set of styles that remove or neutralize the default margins, padding, and other properties provided by browsers. The idea behind a CSS reset is to "reset" styles, creating a consistent starting point. By using a CSS reset, developers can ensure they start from a consistent baseline, making it easier to apply custom styles.
 
 <li>Multimedia</li>
 
@@ -45,13 +43,13 @@ In conclusion, HTML is the backbone of the web. Its strengths derive from its si
 
 In the contemporary digital landscape, user interface (UI) frameworks have come to the forefront, playing a key role in web development. For those unfamiliar with these tools, they might seem like mere version updates. "Maybe HTML and CSS are enough for our needs?" one might ask. Let's delve into the intriguing world of UI frameworks and learn more about Bootstrap 5.
 
-Predefined Components
+<li>Predefined Components</li>
 
 With Bootstrap 5, predefined components swiftly transform your ideas into tangible designs, enabling developers to assemble functional prototypes effortlessly. In today's world, where people access the web from numerous devices, responsiveness is crucial. As the variety of device types and screen sizes grows, possessing a flexible and robust grid system becomes vital. Bootstrap 5 is crafted to simplify the creation of responsive, elegant designs catering to both mobile and desktop users. Whether you're laying out intricate web applications or constructing content-rich websites, Bootstrap 5 provides a grid system and components that automatically adjust based on the device screen size.
 
 Bootstrap 5 introduced an additional breakpoint, termed the XXL grid layer. This breakpoint caters specifically to large desktop screens with a minimum width of 1400 pixels. With this enhancement, Bootstrap now encompasses a comprehensive set of breakpoint ranges: xs (extra small), sm (small), md (medium), lg (large), xl (extra large), and xxl. This ensures web content displays optimally across a broad spectrum of devices. The ".container" class has been enhanced, with the introduction of the new ".container-xxl" class, specifically designed for the XXL grid layer to optimize layouts for larger screens. Furthermore, there's a fluid container class, ".container-fluid", ensuring content occupies the full width of its container, spanning the entire viewport.
 
-Modular
+<li>Modular</li>
 
 Bootstrap 5 adopts a modular approach, allowing developers to incorporate only the segments of the framework they require, leading to more streamlined, faster-loading web projects. The Sass module stands out in Bootstrap 5. Bootstrap's Sass files boast a modular arrangement, meaning various components and utilities are distributed into distinct files and directories. If a developer wishes to customize or omit a particular component, they can simply import or bypass the relevant Sass file, affording more flexibility and deeper customization options. Theming Bootstrap becomes effortless with the prowess of Sass variables and mappings. Developers can craft multiple themes, each with unique color palettes, typography, and component designs, all while utilizing the foundational Bootstrap framework.
 
