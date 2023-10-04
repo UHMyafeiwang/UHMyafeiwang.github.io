@@ -29,15 +29,11 @@ One of the core principles of web development is ensuring that web content displ
 
 The DOCTYPE declaration helps browsers understand which version of HTML the page uses. Placing the `DOCTYPE` declaration at the beginning of the HTML document can further improve consistency by telling the browser which set of rules to follow.
 
-Example:
-
-```html
-<!DOCTYPE html>
-```
+Example: <!DOCTYPE html>.
 
 A CSS reset is an important tool for web developers. Sometimes, differences in default browser styles can lead to inconsistent presentations. Thus, many developers use the CSS reset technique to standardize default browser styles, ensuring a consistent starting point. Each browser has its own default "user agent" style sheet, which it uses to display unstyled web pages in a specific way. These default styles vary from browser to browser, leading to inconsistent appearances. CSS resets are a set of styles that remove or neutralize the default margins, padding, and other properties provided by browsers. The idea behind a CSS reset is to "reset" styles, creating a consistent starting point. By using a CSS reset, developers can ensure they start from a consistent baseline, making it easier to apply custom styles.
 
-Multimedia
+<li>Multimedia</li>
 
 HTML supports multimedia and accommodates various multimedia elements such as images, videos, and audios through tags like `<img>`, `<video>`, and `<audio>`. This capability allows rich content to be presented on a website. The `<img>` tag facilitates the embedding of images in web pages, supporting formats like JPEG, PNG, GIF, BMP, WEBP, and more. Attributes like "alt" provide alternative text descriptions for accessibility, while "srcset" offers responsive image solutions for various device resolutions. The `<audio>` element, introduced in HTML5, can embed audio files and supports formats like MP3, OGG, and WAV. Controls such as play, pause, and volume can be easily added. The `<video>` tag, also a part of HTML5, aids in the integration of video files, supporting formats like MP4, WebM, and OGG. It also permits properties like "controls" (play, pause, volume) and "poster". The inclusion of multimedia features in HTML has metamorphosed static pages into dynamic, interactive, and engaging digital platforms. Not only does this elevate user engagement, but it also equips creators with the tools to showcase content in diverse and imaginative ways. From straightforward graphics to intricate animations and high-definition videos, HTML's multimedia support facilitates a broad spectrum of digital experiences.
 
