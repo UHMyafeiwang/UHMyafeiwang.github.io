@@ -6,10 +6,10 @@ title: "Reflect on UI Frameworks"
 date: 2023-10-04
 published: true
 labels:
-  - JavaScript
-  - Coding Standards
-  - ESLint
-  - IntelliJ
+  - HTML
+  - bootstrap 5
+  - UI
+  - UI Frameworks
 ---
 
 <img width="600px" class="rounded float-start pe-4" src="../img/travel/HTML1.png">
