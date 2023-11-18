@@ -3,16 +3,18 @@ layout: essay
 type: essay
 title: "My AI Adventures in ICS 314"
 # All dates must be YYYY-MM-DD format!
-date: 2023-10-04
+date: 2023-11-17
 published: true
 labels:
-  - HTML
-  - bootstrap 5
-  - UI
-  - UI Frameworks
+  - Study
+  - ICS314
+  - AI
+  - Human
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/travel/HTML1.png">
+
+##
+<img width="600px" class="rounded float-start pe-4" src="../img/travel/AI-1.png">
 
 
 
