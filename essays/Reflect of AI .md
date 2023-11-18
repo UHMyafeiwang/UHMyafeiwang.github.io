@@ -13,7 +13,7 @@ labels:
 ---
 
 
-##
+
 <img width="600px" class="rounded float-start pe-4" src="../img/travel/AI-1.png">
 
 
