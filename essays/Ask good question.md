@@ -4,7 +4,7 @@ type: essay
 title: "Good questions can help you become an software engineer"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-28
-published: true
+published: false
 labels:
   - Learning
   - JavaScript
