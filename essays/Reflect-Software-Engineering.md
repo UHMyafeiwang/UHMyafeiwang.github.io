@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Software Engineering:Beyond Web Application "
+title: "Reflect on Software Engineering "
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-26
+date: 2023-12-06
 published: True
 labels:
   - Learning
