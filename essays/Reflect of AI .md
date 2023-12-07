@@ -4,7 +4,7 @@ type: essay
 title: "My AI Adventures in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-17
-published: true
+published: false
 labels:
   - Study
   - ICS314
