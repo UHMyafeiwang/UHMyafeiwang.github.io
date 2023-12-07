@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Software Engineering"
+title: "Reflect on Software Engineering:Beyond Web Application "
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-26
 published: True
@@ -11,7 +11,7 @@ labels:
   - Ethics
 ---
 
-<img width="600px" src="../img/travel/Design Pattern.png" alt="Dreams">
+<img width="600px" src="../img/travel/Software Engineering.jpg" alt="Dreams">
 
 
 
