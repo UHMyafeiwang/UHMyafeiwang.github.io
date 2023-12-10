@@ -40,6 +40,11 @@
       "startDate": "2019-08-21",
       "endDate": "Present",
       "courses": [
+        "ICS 314: Software Engineering I - Topics covered:",
+        "Gained proficiency in software engineering concepts such as design, implementation, and testing.",
+        "Developed practical skills in IntelliJ Idea, git, GitHub, Bootstrap 5, and Meteor.",
+        "Mastered intermediate JavaScript programming concepts like higher-order functions and closures.",
+        "Applied quality assurance techniques with ESLint, TestCafe, and continuous integration via GitHub Actions."
       ]
     }
   ],
