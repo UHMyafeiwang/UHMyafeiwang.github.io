@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AI4ALL/AI3.png
+image: img/travel/op-logo.png
 title: "Opportunity Finder"
 date: 2023
 published: true
