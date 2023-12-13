@@ -14,6 +14,12 @@ labels:
 Quote: "The greater the obstacle, the more glory in overcoming it."
 ---
 
+<br>
+<br>
+<br>
+<br>
+
+<div style="margin-top: 20px;"></div>
 
 ## View on GitHub
 
