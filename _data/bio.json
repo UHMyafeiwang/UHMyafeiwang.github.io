@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Yafei Wang",
+    "label": "ICS Student",
+    "picture": "https://github.com/uhmyafeiwang.png",
+    "email": "yafeiw@hawaii.edu",
+    "phone": "808-729-7779",
+    "website": "https://uhmyafeiwang.github.io",
+    "summary": "I am Yafei Wang, a Computer Science student at UHM. My journey encompasses a profound passion for technology, strengthened by coursework in programming, algorithms, and data structures.I eagerly anticipate my graduation in Spring 2025.",
+    "location": { "address": "", "postalCode": "96706", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "UHMyafeiwang", "url": "https://github.com/UHMyafeiwang" },
+      { "network": "linkedin", "username": "Yafei Wang", "url": "https://www.linkedin.com/in/yafei-wang-40773b180" },
+      { "network": "twitter", "username": "booleanJoseph", "url": "https://twitter.com/booleanJoseph" },
+      { "network": "instagram", "username": "joseph.yafei.wang", "url": "https://www.instagram.com/joseph.yafei.wang/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" }
+    ]
+  },
+  "interests": [
+    { "name": "Programming" },
+    { "name": "Cybersecurity" },
+    { "name": "Gaming" },
+    { "name": "Fitness" },
+    { "name": "Hiking and Nature Exploration" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Leadership", "communication" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-21",
+      "endDate": "Present",
+      "courses": [
+        "ICS 314: Software Engineering I - Topics covered:",
+        "Gained proficiency in software engineering concepts such as design, implementation, and testing.",
+        "Developed practical skills in IntelliJ Idea, git, GitHub, Bootstrap 5, and Meteor.",
+        "Mastered intermediate JavaScript programming concepts like higher-order functions and closures.",
+        "Applied quality assurance techniques with ESLint, TestCafe, and continuous integration via GitHub Actions."
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "AI4ALL",
+      "position": "Data Analysis",
+      "website": "",
+      "startDate": "2023-01-08",
+      "endDate": "2023-05-24",
+      "summary": "The Future of AI",
+      "highlights": [
+        "Maintain, update, and data analysis",
+        "Programing with python for applactionas"
+      ]
+    },
+    {
+      "company": "AdaptForward",
+      "position": "Cyber Security Analyst",
+      "website": "https://www.adaptforward.com/",
+      "startDate": "2023-08-16",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Analyzes, protecting and analyzing cybersecurity risks",
+        "Naval Information Warfare Center Pacific"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "united state army",
+      "website": "https://www.goarmy.com",
+      "position": "logistics management",
+      "startDate": "2014-08-21",
+      "endDate": "2018-08-08",
+      "summary": "Lead the world",
+      "highlights": [
+        "Manage and organize supply exceeding hundreds of millions of dollars",
+        "Training and managing,Global Combat Support System"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Non-Commissioned Officer",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "The Army Commendation Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "I look forward to meeting you. Please feel free to contact me at your convenience."
+    }
+  ]
+}
