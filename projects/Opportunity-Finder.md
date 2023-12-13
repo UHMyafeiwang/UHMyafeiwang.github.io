@@ -26,13 +26,16 @@ Quote: "The greater the obstacle, the more glory in overcoming it."
 We are interested in your experience using Opportunity Finder!  If you would like, please take a look or visting us on [GitHub](https://github.com/opportunity-finder/opportunity-finder-meteor).
 
 
-## Overview
-
+## Contribution
 "During the 'Project Opportunity Finder,' I practiced and enhanced my software engineering skills, gaining substantial experience in teamwork.
 
 I successfully deployed several components, including the Landing Page, About Us page, Search Page, and Admin Page. Additionally, I achieved the deployment of our 'Our Team' app on DigitalOcean, set up a domain name, and established HTTPS for our dream app, 'Opportunity Finder.'
 
 I believe that effective communication is key to successful teamwork. While I feel we successfully completed our project, I acknowledge there's still much for me to learn and many ways to further improve my skills."
+
+
+
+## Overview
 
 The problem: Many UH computer science and engineering students want to learn about internship and job opportunities, but currently they must wait until a company decides to visit the campus or send out some sort of announcement. There is no efficient way for students to understand the “landscape” of internship and job opportunities that might be available in the future, so they can prepare for them now.
 
